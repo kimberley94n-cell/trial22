@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mediaClip denoised="false" endTrimDuration="0" startTrimDuration="0" version="1">
+
+  <files>
+    <file id="1" path="..\files\cdb9fb75.mp3"/>
+  </files>
+
+  <dataChunks>
+    <fileChunk fileId="1">
+      <range duration="9096" startTime="0"/>
+    </fileChunk>
+  </dataChunks>
+
+  <customProperties>
+    <property key="ttsObject" value="ewogInRleHQiOiAiSGksIHdlbGNvbWUgdG8gU2FsZXMgVHJhY2tlciBPbmJvYXJkaW5nISBPbiB0aGlzIGxlYXJuaW5nIHNlc3Npb24sIHdlIHdpbGwgbGVhcm4gaG93IHRvIHVzZSBvdXIgU2FsZXMgVHJhY2tlciBzbyB3ZSBjYW4gYWNjdXJhdGVseSB0cmFjayBvdXIgcHJvZHVjdGl2aXR5LiIsCiAidm9pY2VJZCI6ICJlbi1VUy1OZXVyYWwyLUQiLAogImxhbmd1YWdlQ29kZSI6ICJlbi1VUyIsCiAic3ludGhlc2l6ZXJJZCI6ICJnb29nbGUiLAogImlzVGV4dFJUTCI6IGZhbHNlLAogIm1hcmt1cFR5cGUiOiAiUGxhaW5UZXh0Igp9Cg=="/>
+  </customProperties>
+
+</mediaClip>

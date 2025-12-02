@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mediaClip denoised="false" endTrimDuration="0" startTrimDuration="0" version="1">
+
+  <files>
+    <file id="1" path="..\files\6f8ba0d1.mp3"/>
+  </files>
+
+  <dataChunks>
+    <fileChunk fileId="1">
+      <range duration="12000" startTime="0"/>
+    </fileChunk>
+  </dataChunks>
+
+  <customProperties>
+    <property key="ttsObject" value="ewogInRleHQiOiAiRmluYWxseSwgdGhlc2UgZmllbGRzIHRyYWNrIG93bmVyc2hpcC5cclxuXHJcbkNvbHVtbiBMOiBTZXR0ZXIg4oCUIHlvdXIgbmFtZSBnb2VzIGhlcmUuXHJcbkNvbHVtbiBNOiBOb3RlcyDigJQgdGhpcyBpcyB3aGVyZSB5b3UgZW50ZXIgYW55IHVzZWZ1bCByZW1pbmRlcnMgb3IgdXBkYXRlcyBhYm91dCB0aGUgbGVhZC4iLAogInZvaWNlSWQiOiAiZW4tVVMtTmV1cmFsMi1EIiwKICJsYW5ndWFnZUNvZGUiOiAiZW4tVVMiLAogInN5bnRoZXNpemVySWQiOiAiZ29vZ2xlIiwKICJpc1RleHRSVEwiOiBmYWxzZSwKICJtYXJrdXBUeXBlIjogIlBsYWluVGV4dCIKfQo="/>
+  </customProperties>
+
+</mediaClip>

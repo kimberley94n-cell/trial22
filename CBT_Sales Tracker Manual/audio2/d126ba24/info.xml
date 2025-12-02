@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mediaClip denoised="false" endTrimDuration="0" startTrimDuration="0" version="1">
+
+  <files>
+    <file id="1" path="..\files\f6e76c25.mp3"/>
+  </files>
+
+  <dataChunks>
+    <fileChunk fileId="1">
+      <range duration="8640" startTime="0"/>
+    </fileChunk>
+  </dataChunks>
+
+  <customProperties>
+    <property key="ttsObject" value="ewogInRleHQiOiAiSGVyZeKAmXMgYSBzY2VuYXJpbyBpbnZvbHZpbmcgc3lzdGVtIHNhbGVzLiBXaGVuIGEgc2FsZSBhcHBlYXJzIGluIEdITCBidXQgdGhlcmUncyBubyBzZXR0ZXIgd2hvIHdvcmtlZCBvbiBpdCwgdGhhdCBtdXN0IGJlIGEgc3lzdGVtIHNhbGUuXHJcbiIsCiAidm9pY2VJZCI6ICJlbi1VUy1OZXVyYWwyLUQiLAogImxhbmd1YWdlQ29kZSI6ICJlbi1VUyIsCiAic3ludGhlc2l6ZXJJZCI6ICJnb29nbGUiLAogImlzVGV4dFJUTCI6IGZhbHNlLAogIm1hcmt1cFR5cGUiOiAiUGxhaW5UZXh0Igp9Cg=="/>
+  </customProperties>
+
+</mediaClip>

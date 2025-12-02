@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mediaClip denoised="false" endTrimDuration="0" startTrimDuration="0" version="1">
+
+  <files>
+    <file id="1" path="..\files\ddedad7d.mp3"/>
+  </files>
+
+  <dataChunks>
+    <fileChunk fileId="1">
+      <range duration="24168" startTime="0"/>
+    </fileChunk>
+  </dataChunks>
+
+  <customProperties>
+    <property key="ttsObject" value="ewogInRleHQiOiAiTGVlZCBvd25lcnNoaXAgbGFzdHMgZm9yIDcgZnVsbCBkYXlzIGZyb20gdGhlIGxhc3QgYWN0aXZpdHkgZGF0ZS5cclxuQXMgbG9uZyBhcyB5b3Ugc2VuZCBhIG1lc3NhZ2UsIHJlcGx5LCBmb2xsb3cgdXAsIG9yIHVwZGF0ZSBub3RlcyB3aXRoaW4gNyBkYXlzLCB0aGUgbGVlZCByZW1haW5zIHlvdXJzLlxyXG5cclxuSWYgdGhlcmUgaXMgemVybyBhY3Rpdml0eSBmb3IgNyBkYXlzLCB0aGUgbGVlZCBiZWNvbWVzIG9wZW4uXHJcbldoZW4gYW5vdGhlciBzZXR0ZXIgcmVhY3RpdmF0ZXMgaXQsIHRoZSBvd25lcnNoaXAgcmVzZXRzIHRvIHRoYXQgbmV3IHNldHRlci5cclxuVGhpcyBpcyB3aHkgdXBkYXRpbmcgdGhlIHRyYWNrZXIgZGFpbHkgaXMgZXh0cmVtZWx5IGltcG9ydGFudC4iLAogInZvaWNlSWQiOiAiZW4tVVMtTmV1cmFsMi1EIiwKICJsYW5ndWFnZUNvZGUiOiAiZW4tVVMiLAogInN5bnRoZXNpemVySWQiOiAiZ29vZ2xlIiwKICJpc1RleHRSVEwiOiBmYWxzZSwKICJtYXJrdXBUeXBlIjogIlBsYWluVGV4dCIKfQo="/>
+  </customProperties>
+
+</mediaClip>

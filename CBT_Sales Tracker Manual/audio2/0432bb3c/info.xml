@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mediaClip denoised="false" endTrimDuration="0" startTrimDuration="0" version="1">
+
+  <files>
+    <file id="1" path="..\files\71ae07db.mp3"/>
+  </files>
+
+  <dataChunks>
+    <fileChunk fileId="1">
+      <range duration="11808" startTime="0"/>
+    </fileChunk>
+  </dataChunks>
+
+  <customProperties>
+    <property key="ttsObject" value="ewogInRleHQiOiAiQmVmb3JlIHdlIHVzZSB0aGUgU2FsZXMgVHJhY2tlciwgbGV04oCZcyB1bmRlcnN0YW5kIHdoYXQgZWFjaCBjb2x1bW4gbWVhbnMuIFRoaXMgZW5zdXJlcyB3ZSBlbmNvZGUgY29ycmVjdGx5IGFuZCBrZWVwIG91ciBwcm9kdWN0aXZpdHkgZGF0YSBhY2N1cmF0ZS4gRG9u4oCZdCB3b3JyeeKAlHdl4oCZbGwgZ28gdGhyb3VnaCB0aGlzIGluIHNpbXBsZSB0ZXJtcy4iLAogInZvaWNlSWQiOiAiZW4tVVMtTmV1cmFsMi1EIiwKICJsYW5ndWFnZUNvZGUiOiAiZW4tVVMiLAogInN5bnRoZXNpemVySWQiOiAiZ29vZ2xlIiwKICJpc1RleHRSVEwiOiBmYWxzZSwKICJtYXJrdXBUeXBlIjogIlBsYWluVGV4dCIKfQo="/>
+  </customProperties>
+
+</mediaClip>
